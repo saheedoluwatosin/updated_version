@@ -1,0 +1,46 @@
+body{
+    background: url(./washing-machine-minimal-laundry-room-interior-design\ \(11\).jpg);
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    
+}
+.header{
+    text-align: center;
+    font-size: 36px;
+}
+.container{
+    background: white;
+    margin: 0 auto;
+    width: 50%;
+    height: 490px;
+    border: 2px solid white;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px 0px #000000;
+}
+.side{
+    float: left;
+    height: 490px;
+    width:50%;
+    
+    background: url(./portrait-engineer-job-site-work-hours.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 15px;
+    
+    
+}
+form{
+    width:100%;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    
+}
+input{
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    width: 200px;
+    height: 30px;
+}
